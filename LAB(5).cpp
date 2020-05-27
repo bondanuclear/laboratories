@@ -2,8 +2,8 @@
 #include<conio.h>
 #include<cstdlib>
 using namespace std;
-//length
-const int word = 20;
+
+const int word = 20; // length
 
 void print_1(char* array) {
 	int index = 0;
